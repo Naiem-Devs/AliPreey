@@ -1,0 +1,789 @@
+/* Normal desktop :1200px. */
+@media (max-width: 1500px) and (min-width: 1200px) {
+    section.Fitnees_blog img {
+        height: 554px;
+    }
+    .singel_blog{
+    padding-top: 160px;
+    padding-bottom: 120px;
+}
+.first_blog{
+    padding: 85px 0;
+}
+.first_blog h1{
+    margin-bottom: 0px;
+}
+.first_blog h2{
+    font-size: 38px;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+.first_blog p{
+    margin-bottom: 20px;
+}
+.ap_list a{
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+.profile_bg img{height: 620px;}
+.profile_content{
+    height: 350px;
+}
+.profile_content p{
+    margin-bottom: 10px;
+}
+.profile_left {
+    padding: 40px 0px;
+}
+.Do_This img {
+    height: 440px;
+}
+.do_this_left{
+    padding: 65px 0;
+}
+
+
+
+
+
+
+
+
+
+    img#blog-1 {
+        top: 0px;
+    }
+    
+    img#blog-2 {
+        top: 25%;
+    }
+    
+    img#blog-3 {
+        top: 50.1%;
+    }
+    
+    img#blog-4 {
+        top: 75.2%;
+    }
+    
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .hero_left h1{
+    font-size: 50px;
+    line-height: 60px;
+}
+    .hero_right img{
+    width: 100%;
+}
+    section.Fitnees_blog img {
+        height: 550px;
+    }
+    .singel_blog{
+    padding-top: 174px;
+    padding-bottom: 96px;
+}
+.first_blog{
+    padding: 50px 0;
+}
+.first_blog h1{
+    margin-bottom: 0px;
+    font-size: 40px;
+}
+.first_blog h2{
+    font-size: 30px;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+.first_blog p{
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.ap_list a{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.profile_bg img{height: 713px;}
+.profile_content{
+    height: 350px;
+}
+.profile_content p{
+    margin-bottom: 10px;
+}
+.profile_left {
+    padding: 50px 0px;
+}
+.Do_This img {
+    height: 440px;
+}
+.do_this_left{
+    padding: 65px 0;
+}
+img#blog-1 {
+    top: 0px;
+}
+
+img#blog-2 {
+    top: 25.1%;
+}
+
+img#blog-3 {
+    top: 50.1%;
+}
+
+img#blog-4 {
+    top: 75.2%;
+}
+.slider .owl-nav{top: 105%;}
+.slider .owl-nav button.owl-next{
+    left: 70%;
+}
+.slider .owl-nav button{
+    left: 35%;
+}
+.row.slider.owl-carousel.owl-loaded.owl-drag {
+    left: 2%;
+}
+
+
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.Mobile_Menu{display: block !important;}
+/* Mobile Menu End___________ */
+.menu {
+    display: none;
+}
+
+.login {
+    display: none;
+}
+
+.hero_left h1{
+    font-size: 35px;
+    line-height: 45px;
+    margin-bottom: 20px;
+}
+    .hero_right img{
+    width: 100%;
+}
+    section.Fitnees_blog img {
+        height: 397px;
+    }
+    .singel_blog{
+    padding-top: 88px;
+    padding-bottom: 84px;
+}
+.first_blog{
+    padding: 40px 0;
+}
+.first_blog h1{
+    margin-bottom: 0px;
+    font-size: 35px;
+    line-height: 2;
+}
+.first_blog h2{
+    font-size: 27px;
+    line-height: 34px;
+    margin-bottom: 13px;
+}
+.first_blog p{
+    margin-bottom: 20px;
+    font-size: 15px;
+    width: 487px;
+}
+.ap_list a{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.profile_bg img{height: 713px;}
+.profile_content{
+    height: 285px;
+}
+.profile_content p{
+    margin-bottom: 10px;
+    font-size: 12px;
+    line-height: 22px;
+}
+.profile_left {
+    padding: 50px 0px;
+}
+.Do_This img {
+    height: 320px;
+}
+.do_this_left{
+    padding: 35px 0 50px;
+}
+img#blog-1 {
+    top: 0px;
+}
+
+img#blog-2 {
+    top: 25.3%;
+}
+
+img#blog-3 {
+    top: 50.7%;
+}
+
+img#blog-4 {
+    top: 76%;
+}
+.slider .owl-nav{top: 110%;transform: translate(-50%,-50%);left: 47%;}
+.slider .owl-nav button.owl-next{
+    left: 70%;
+}
+.slider .owl-nav button{
+    left: 35%;
+}
+.row.slider.owl-carousel.owl-loaded.owl-drag {
+    left: 2%;
+}
+.hero_left{
+    margin-top: 0;
+}
+.ap-list i, .ap-list svg{
+    font-size: 18px;
+}
+.silder_content{
+    padding-top: 30px;
+}
+.slider .owl-nav button i, .slider .owl-nav button svg{
+    font-size: 30px;
+}
+.email_form input::placeholder{
+    font-size: 12px;
+}
+.login a {
+    margin: 0;
+    display: inherit;
+    width: max-content;
+    margin-bottom: 17px;
+    padding: 0 !important;
+    background: no-repeat;
+}
+
+.hero_left {
+    margin-top: 70px;
+}
+
+.hero_left p{font-size: 15px;margin-bottom: 25px;line-height: 25px;}
+.hero_left a.thm_btn{padding: 15px 20px;font-size: 13px;}
+
+/*HERO Section css end ===========*/
+
+/*Fitnees Section css Start ===========*/
+.singel_blog h1{
+    font-size: 37px;
+}
+
+ul.blog {
+    margin-bottom: 30px;
+}
+ul.blog li{
+    margin-bottom: 6px;
+    font-size: 13px;
+}
+a.blog_btn{
+    font-size: 13px;
+}
+/*Fitnees Section css end ===========*/
+
+/* Profile_section css Start ===========*/
+
+.profile_bg img{
+    display: none;
+}
+
+.profile_left{
+    width: 80%;
+    margin: auto;
+}
+h2.title {
+    font-size: 35px;
+}
+
+.thm_btn{
+    font-size: 12px;
+    padding: 18px 30px;
+}
+/* Profile_section css end ===========*/
+
+/*Testimonials Section css Start ===========*/
+section.Testimonials {
+    padding-top: 50px;
+}
+.singel_slider {
+    width: 100%;
+    margin-top: 0;
+}
+
+.singel_slider .img_area a{
+    font-size: 12px;
+}
+.singel_slider .img_area img{
+    width: 120px;
+}
+.silder_content svg,
+.silder_content i{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.silder_content a{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.silder_content span{
+    font-size: 11px;
+    padding: 5px;
+    margin-bottom: 11px;
+}
+.silder_content small{
+    font-size: 13px;
+    line-height: 20px;
+}
+/*Testimonials Section css end ===========*/
+
+/*Do_This Section css Start ===========*/
+
+.do_this_left ul {
+    margin-bottom: 30px;
+}
+.do_this_left ul li{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+.do_this_left h2{
+    margin-bottom: 10px;
+}
+/*Do_This Section css end ===========*/
+
+/*Buy_now Section css Start ===========*/
+section.Buy_now{
+    padding: 30px;
+}
+
+.buy_content a{
+    width: 120px;
+    height: 40px;
+    line-height: 42px;
+    margin-top: 10px;
+}
+.buy_content h2 {
+    font-size: 25px;
+    margin-bottom: 0;
+}
+.buy_content h2 span{
+    font-size: 14px;
+    padding-top: 10px;
+}
+/*Buy_now Section css end ===========*/
+
+/*News_letter Section css Start ===========*/
+section.News_letter{
+    padding: 50px;
+}
+
+.n_letter_title h3{
+    font-size: 23px;
+    margin-bottom: 10px;
+}
+.n_letter_title p{
+    font-size: 13px;
+}
+.email_form {
+    margin-top: 20px;
+}
+.email_form input{
+    width: 250px;
+    height: 45px;
+}
+
+/*News_letter Section css end ===========*/
+
+
+/*Footer Section css Start ===========*/
+footer{
+    padding: 40px 0 20px;
+}
+
+.footer_left .logo a img{
+    max-width: 140px;
+}
+.footer_left p{
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.footer_mid {
+    padding-bottom: 30px;
+}
+
+.footer_mid ul li a{
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+
+
+
+
+ul.social_icon {
+    margin-bottom: 20px;
+}
+ul.social_icon li {
+    margin: 0 12px;
+}
+
+.footer_btm {
+    padding-top: 20px;
+}
+.footer_btm p{
+    font-size: 11px;
+}
+section#my-navigation .login {
+    display: block;
+}
+/*Footer Section css end ===========*/
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+
+    .Mobile_Menu{display: block !important;width: 50px;position: absolute;top: -18px;transform: translate(-50%, -50%);right: 0;}
+    #my-navigation{width: 100%;}
+/* Mobile Menu End___________ */
+ /*HEro Section css Start ===========*/
+ .menu {
+    display: none;
+}
+section#my-navigation .login {
+    display: block;
+}
+.logo a img{
+    width: 130px;
+}
+.login {
+    display: none;
+}
+
+.hero_left h1{
+    font-size: 22px;
+    line-height: 35px;
+    margin-bottom: 20px;
+}
+    .hero_right img{
+    width: 100%;
+    display: none;
+}
+    section.Fitnees_blog img {
+        height: 397px;
+        display: none;
+    }
+    .singel_blog{
+    padding-top: 0px;
+    padding-bottom: 45px;
+}
+.first_blog{
+    padding: 40px 0;
+}
+.first_blog h1{
+    margin-bottom: 8px;
+    font-size: 28px;
+    line-height: 1;
+}
+.first_blog h2{
+    font-size: 19px;
+    line-height: 27px;
+    margin-bottom: 11px;
+    width: 300px;
+}
+.first_blog p{
+    margin-bottom: 20px;
+    font-size: 12px;
+    width: 300px;
+}
+.ap_list a{
+    font-size: 14px;
+    margin-bottom: 5px;
+    margin-left: 9px;
+}
+.profile_bg img{height: 713px;}
+.profile_content{
+    height: 285px;
+}
+.profile_content p{
+    margin-bottom: 5px;
+    font-size: 12px;
+    line-height: 22px;
+}
+.profile_left {
+    padding: 50px 0px;
+}
+.Do_This img {
+    height: 277px;
+}
+.do_this_left{
+    padding: 35px 0 50px;
+}
+img#blog-1 {
+    top: 0px;
+}
+
+img#blog-2 {
+    top: 25.3%;
+}
+
+img#blog-3 {
+    top: 50.7%;
+}
+
+img#blog-4 {
+    top: 76%;
+}
+.slider .owl-nav{top: 110%;transform: translate(-50%,-50%);left: 47%;}
+.slider .owl-nav button.owl-next{
+    left: 70%;
+}
+.slider .owl-nav button{
+    left: 35%;
+}
+.row.slider.owl-carousel.owl-loaded.owl-drag {
+    left: 2%;
+}
+.hero_left{
+    margin-top: 0;
+}
+.ap-list i, .ap-list svg{
+    font-size: 14px;
+    margin-top: 2px;
+}
+.silder_content{
+    padding: 25px;
+}
+.slider .owl-nav button i, .slider .owl-nav button svg{
+    font-size: 30px;
+}
+.email_form input::placeholder{
+    font-size: 12px;
+}
+
+section.Hero_area{padding-bottom: 40px;padding-top: 50px;}s
+.hero_left {
+    margin-top: 70px;
+}
+.hero_left p{font-size: 12px;margin-bottom: 20px;line-height: 23px;}
+.hero_left a.thm_btn{padding: 14px 17px;font-size: 12px;}
+
+/*HERO Section css end ===========*/
+
+/*Fitnees Section css Start ===========*/
+
+.singel_blog h1{
+    font-size: 28px;
+}
+
+ul.blog {
+    margin-bottom: 30px;
+}
+ul.blog li{
+    margin-bottom: 6px;
+    font-size: 12px;
+}
+a.blog_btn{
+    font-size: 11px;
+}
+/*Fitnees Section css end ===========*/
+
+/* Profile_section css Start ===========*/
+
+.profile_bg img{
+    display: none;
+}
+
+.profile_left{
+    width: 80%;
+    margin: auto;
+}
+h2.title {
+    font-size: 25px;
+    line-height: 30px;
+}
+.thm_btn{
+    font-size: 11px;
+    padding: 15px 17px;
+}
+/* Profile_section css end ===========*/
+
+/*Testimonials Section css Start ===========*/
+section.Testimonials {
+    padding-top: 50px;
+}
+.singel_slider {
+    width: 100%;
+    margin-top: 0;
+    margin-left: 10px;
+}
+.singel_slider .img_area {
+    display: none;
+}
+.singel_slider .img_area a{
+    font-size: 12px;
+}
+.singel_slider .img_area img{
+    width: 101px;
+}
+.silder_content svg,
+.silder_content i{
+    font-size: 11px;
+    margin-bottom: 5px;
+}
+.silder_content a{
+    font-size: 12px;
+    margin-bottom: 4px;
+}
+.silder_content span{
+    font-size: 11px;
+    padding: 3px;
+    margin-bottom: 0px;
+}
+.silder_content small{
+    font-size: 10px;
+    line-height: 16px;
+}
+/*Testimonials Section css end ===========*/
+
+/*Do_This Section css Start ===========*/
+
+.do_this_left ul {
+    margin-bottom: 30px;
+}
+.do_this_left ul li{
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+.do_this_left h2{
+    margin-bottom: 10px;
+}
+/*Do_This Section css end ===========*/
+
+/*Buy_now Section css Start ===========*/
+section.Buy_now{
+    padding: 15px 0px;
+}
+.buy_content a{
+    width: 95px;
+    height: 36px;
+    line-height: 39px;
+    margin-top: 5px;
+    margin-left: 80px;
+}
+.buy_content h2 {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.buy_content h2 span{
+    font-size: 11px;
+    padding-top: 10px;
+}
+/*Buy_now Section css end ===========*/
+
+/*News_letter Section css Start ===========*/
+section.News_letter{
+    padding: 30px 0px;
+}
+
+.n_letter_title h3{
+    font-size: 17px;
+    margin-bottom: 6px;
+}
+.n_letter_title p{
+    font-size: 12px;
+}
+.email_form {
+    margin-top: 20px;
+    display: inline;
+}
+.email_form input{
+    width: 300px;
+    height: 40px;
+    margin: auto;
+    display: block;
+    margin-bottom: 12px;
+}
+.email_form a{
+    display: block;
+    width: max-content;
+    margin: auto;
+    padding: 14px 20px;
+}
+/*News_letter Section css end ===========*/
+
+/*Footer Section css Start ===========*/
+footer{
+    padding: 40px 0 20px;
+}
+
+.footer_left .logo a img{
+    max-width: 140px;
+}
+.footer_left p{
+    font-size: 12px;
+    line-height: 20px;
+    width: 300px;
+}
+
+.footer_mid {
+    padding-bottom: 30px;
+}
+.footer_mid ul li a{
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+
+.footer_right a{width: 154px;}
+ul.social_icon {
+    margin-bottom: 20px;
+    text-align: revert;
+}
+ul.social_icon li {
+    margin: 0 6px;
+}
+ul.social_icon li a{
+    width: max-content;
+}
+
+.footer_btm {
+    padding-top: 20px;
+}
+.footer_btm p{
+    font-size: 11px;
+}
+.login a {
+    margin: 0;
+    display: inherit;
+    width: max-content;
+    margin-bottom: 17px;
+    padding: 0 !important;
+    background: no-repeat;
+}
+/*Footer Section css end ===========*/
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+#my-navigation{width: 450px;}
+/* Mobile Menu End___________ */
+.container {width:450px}
+}
